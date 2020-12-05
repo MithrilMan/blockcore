@@ -1,5 +1,6 @@
 ﻿using Blockcore.Base;
 using Blockcore.Configuration;
+using Blockcore.Utilities.Store;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Blockcore.Builder
